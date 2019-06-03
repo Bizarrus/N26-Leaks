@@ -1,0 +1,5 @@
+N26 nimmt sich das Recht, Gebühren (insbesondere Rücklastschriften) direkt zu verrechnen. Insbesondere bei rechtlich Relevanten Festsetzungen (Beispielsweise Pfändung oder Insolvenz) führt N26 eine direkte verrechnung der anfallenden Gebühren durch - Alles was über der Pfändungsfreigrenze liegt darf in diesem Moment nicht angetastet werden, da dies im Falle der Gläubigerschuldung dem jeweiligen Gläubiger übertragen wird.
+
+Hier nimmt sich N26 das Recht, Geldsummen anzutasten, obwohl die Besitzrechte den jeweiligen Gläubigern vorbehalten sind. Die Ernste Frage wäre hier, ob diesd Form legitim ist, denn wenn ein vollstreckbarer Titel vorliegt, sind diese zu bedienen, andernfalls wäre das Rechtssystem, bei dem ein Gläubiger seine Rechte und Forderungen geltend macht, absolut unnütz.
+
+Hier geht es auch nicht darum, dass mögliche Gebühren (in dem Falle Rücklastschriftgebühren) anfallen, schließlich kann N26 dies in Rechnung stellen, sondern es geht hier um das Prinzip des Rechtes, direkze verrechningen durchzuführen, obwohl die vorhandene Geldsumme für einen Gläubiger bestimmt sind.

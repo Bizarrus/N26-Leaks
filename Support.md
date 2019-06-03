@@ -8,3 +8,5 @@ Durch die Medien wird publiziert, dass N26 seine Mitarbeiter „aufstocken“ m�
 allerdings ausschließlich durch Subunternehmer (CallCenter-Agenturen wie Majorel, damals Arvato), 
 die neben dem auch weitere Subunternehmen (Zeitarbeit/Personaldienstleister) bereitstellen. Dass 
 N26 ihre „Mitarbeiter“ aufstockt, ist ausschließlich PR.
+
+Der Support-Chat (ausgenommen die Webversion über einem Webbrowser) übermittelt die direkte Eingabe des Nutzers. Der Agent, der den Chat annimmt, sieht zu jedem Zeitpunkt, was geschrieben wird. Tätigt man eine Eingabe, ohne dies abzusenden oder wieder zu löschen, sieht der Agent dies trotzdem.
